@@ -1,5 +1,4 @@
 "chamu .vimrc
-" last edited: 11.8.17 WED
 
 set autoindent
 set cindent
