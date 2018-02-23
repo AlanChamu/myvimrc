@@ -22,5 +22,3 @@ ino ' ''<left>
 ino " ""<left>
 ino ]  <esc>$a
 ino jk <esc>
-
-ino m<tab> int main()<esc>o
