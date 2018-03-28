@@ -1,5 +1,3 @@
-"chamu .vimrc
-
 set autoindent
 set cindent
 set expandtab
