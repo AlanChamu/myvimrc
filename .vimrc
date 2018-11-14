@@ -8,7 +8,7 @@ set spell spelllang=en_us	  "adds the use of spellchecker
 
 "just some requirements for general programming
 set tabstop=4 shiftwidth=4 expandtab 
-"sets tabs equal to spaces, allow python to be compiled
+"sets tabs equal to spaces, allow python to be compiled, should be 2?
 "set autoindent
 "set cindent
 set number
